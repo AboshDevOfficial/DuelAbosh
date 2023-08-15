@@ -3,4 +3,4 @@ author: abosh
 description: DuelAbosh Plugin
 main: duel\sw\SWmain
 version: 1.0
-api: 3.0.0
+api: 5.0.0
